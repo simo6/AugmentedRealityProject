@@ -5,5 +5,5 @@
 ## Required Tools
 
 ## Authors
-Bartoli Simone
+Bartoli Simone,
 Caligiana Paolo
