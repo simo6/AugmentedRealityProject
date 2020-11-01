@@ -6,14 +6,14 @@ This work describes an Augmented Reality System to superimpose an artificial lay
 
 Required Tools
 
-* [Python]()
-* [Jupyter notebook]()
+* [Python](https://www.python.org/downloads/)
+* [Jupyter notebook](https://jupyter.org/)
 
 Dependencies
 
-* [OpenCV]()
-* [Numpy]()
-* [Matplotlib] ()
+* [OpenCV](https://opencv.org/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
 
 ## Authors
 Bartoli Simone,
